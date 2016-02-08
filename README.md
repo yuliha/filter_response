@@ -15,7 +15,7 @@ The code is designed for texture classification of clothing.
 
   input: image and mask
   
-  output: specially averaged "MR8" filter responses, for a given sample size, from a given clothing label.
+  output: spatially averaged "MR8" filter responses, for a given sample size, from a given clothing label.
           and ravelled to give a 1-d final vector.
 
 4- code for the filters
