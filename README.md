@@ -5,7 +5,7 @@ filter response for texture classification
 ___
 The code is designed for texture classification of clothing.
 
-######The repository contains:
+#####The repository contains:
 
 1. an image file im.npy of a woman
 
