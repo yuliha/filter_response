@@ -2,7 +2,7 @@
 ## Filter response
 filter response for texture classification
 
-
+####
 The code is designed for texture classification of clothing.
 
 ####The repository contains:
