@@ -1,5 +1,5 @@
 
-## filter response
+## Filter response
 filter response for texture classification
 
 
