@@ -13,7 +13,7 @@ The code is designed for texture classification of clothing.
 
 3. main code: MR8filterresponse.py
  - input: loads an image and mask
- - output: spatially averaged "MR8" filter responses, for a given sample size, from a given clothing label.
+ - output: MR8 filter responses for a given sample size, from a given clothing label, spatially averaged
           and ravelled to give a 1-d final vector.
 
 4. code for the filters
