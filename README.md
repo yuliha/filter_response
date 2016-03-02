@@ -18,6 +18,6 @@ The code is designed for texture classification of clothing.
 
 4. an image file im.npy of a woman wearing a dress
 
-5. a mask file mask.npy - 2d array of the labels for the different items of cloth
+5. a mask file mask.npy: 2d array of the labels for the different items of cloth
 
 
